@@ -1,0 +1,41 @@
+[
+    {
+        "user_question": "¿Cómo funcionan las vacaciones y qué son los días de bienestar?",
+        "system_answer": "Ofrecemos 15 días hábiles de vacaciones pagas anuales, disponibles para ser utilizados desde el primer día de contrato. Además, introducimos los \"Wellness Days\": 3 días libres al año destinados exclusivamente al cuidado de la salud mental o descanso personal, los cuales no requieren justificación médica.",
+        "chunks_related": [
+            "ecemos 15 días hábiles de vacaciones pagas anuales, disponibles para ser utilizados desde el primer día de contrato. Además, introducimos los \"Wellness Days\": 3 días libres al año destinados exclusivamente al cuidado de la salud mental o descanso personal, los cuales no requieren justificación médic",
+            "ergonómico: sillas, escritorios regulables o monitores externos. Este bono se puede solicitar nuevamente cada 24 meses para asegurar que el entorno de trabajo siga siendo óptimo y saludable para el empleado.  4. POLÍTICA DE VACACIONES, LICENCIAS Y DÍAS DE BIENESTAR Ofrecemos 15 días hábiles de vaca",
+            "tividades físicas. También contamos con una tarjeta de beneficios para almuerzos con un monto mensual precargado, válida en una amplia red de comercios y supermercados.  7. POLÍTICA DE VIAJES Y EVENTOS CORPORATIVOS A pesar de ser remotos, valoramos el contacto humano. Una vez al año realizamos el \"T"
+        ],
+        "evaluation": {
+            "score": 10,
+            "justification": "La respuesta del sistema es altamente relevante, ya que utiliza información directamente extraída de los fragmentos recuperados. Es precisa, ya que no inventa información y se adhiere a los datos proporcionados sobre las vacaciones y los días de bienestar. Además, es completa, ya que aborda ambos aspectos de la pregunta del usuario: el funcionamiento de las vacaciones y la explicación de los días de bienestar, proporcionando detalles claros y concisos sobre ambos temas."
+        }
+    },
+    {
+        "user_question": "¿Qué equipamiento me dan para trabajar desde casa?",
+        "system_answer": "Al ingresar, recibirás un kit tecnológico de alta gama que incluye una laptop MacBook Pro o Dell XPS según el stack tecnológico. Además, TechFlow otorga un bono de USD 500 (o su equivalente local) para la compra de equipamiento ergonómico, como sillas, escritorios regulables o monitores externos. Este bono se puede solicitar nuevamente cada 24 meses.",
+        "chunks_related": [
+            "NFRAESTRUCTURA Y BENEFICIOS DE HOME OFFICE Al ingresar, recibirás un kit tecnológico de alta gama que incluye una laptop MacBook Pro o Dell XPS según el stack tecnológico. Además, TechFlow otorga un bono de USD 500 (o su equivalente local) para la compra de equipamiento ergonómico: sillas, escritori",
+            "ergonómico: sillas, escritorios regulables o monitores externos. Este bono se puede solicitar nuevamente cada 24 meses para asegurar que el entorno de trabajo siga siendo óptimo y saludable para el empleado.  4. POLÍTICA DE VACACIONES, LICENCIAS Y DÍAS DE BIENESTAR Ofrecemos 15 días hábiles de vaca",
+            "la cohesión y la planificación estratégica en persona. Todos los gastos de traslado y viáticos durante estos viajes son cubiertos por la empresa mediante rendición de tickets.  8. SEGURIDAD INFORMÁTICA Y USO DE DISPOSITIVOS La seguridad es nuestra prioridad. Es obligatorio el uso de administradores"
+        ],
+        "evaluation": {
+            "score": 10,
+            "justification": "La respuesta del sistema es altamente relevante, ya que utiliza información directamente extraída de los fragmentos recuperados. Es precisa, ya que no inventa información y se alinea con el contexto proporcionado sobre el equipamiento para trabajar desde casa. Además, la respuesta es completa, ya que aborda todos los aspectos de la pregunta del usuario, incluyendo el kit tecnológico y el bono para equipamiento ergonómico, así como la frecuencia con la que se puede solicitar el bono."
+        }
+    },
+    {
+        "user_question": "¿Cuál es el proceso de desvinculación y propiedad intelectual?",
+        "system_answer": "El proceso de desvinculación (offboarding) en TechFlow incluye lo siguiente:\n\n- En caso de renuncia voluntaria, se solicita un preaviso de 15 días corridos para facilitar la transferencia de conocimiento.\n- Durante la última semana, el equipo de IT coordinará la devolución de los activos físicos.\n- Se realizará una entrevista de salida para entender los motivos de la desvinculación y mejorar como organización.\n\nEn cuanto a la propiedad intelectual, todo el código y documentación producida durante el empleo queda bajo la propiedad intelectual de TechFlow SAAS.",
+        "chunks_related": [
+            "entos que violen nuestros valores fundamentales con la garantía de que no habrá represalias.  10. PROCESO DE DESVINCULACIÓN (OFFBOARDING) En caso de renuncia voluntaria, solicitamos un preaviso de 15 días corridos para facilitar la transferencia de conocimiento. Durante la última semana, el equipo d",
+            "la última semana, el equipo de IT coordinará la devolución de los activos físicos. Realizaremos una entrevista de salida para entender los motivos y mejorar como organización. Todo el código y documentación producida durante el empleo queda bajo la propiedad intelectual de TechFlow SAAS.",
+            "torizados. No se permite el almacenamiento de datos sensibles en dispositivos personales bajo ninguna circunstancia, para proteger la propiedad intelectual de nuestros clientes.  9. CÓDIGO DE ÉTICA Y CANAL DE DENUNCIAS Mantenemos una política de tolerancia cero frente al acoso, la discriminación y c"
+        ],
+        "evaluation": {
+            "score": 10,
+            "justification": "La respuesta del sistema es altamente relevante, ya que utiliza información directamente extraída de los chunks proporcionados. La precisión es total, ya que no se presenta información inventada y se alinea con el contexto recuperado. Además, la respuesta es completa, abordando tanto el proceso de desvinculación como la cuestión de la propiedad intelectual, que son los dos aspectos solicitados en la pregunta del usuario."
+        }
+    }
+]

@@ -1,0 +1,13 @@
+[project]
+name = "tp-modulo2-ai-henry"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.13.2",
+    "numpy>=2.4.2",
+    "openai>=2.24.0",
+    "python-dotenv>=1.2.2",
+    "tqdm>=4.67.3",
+]

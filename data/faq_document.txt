@@ -1,0 +1,31 @@
+MANUAL INTEGRAL DE POLÍTICAS Y PROCEDIMIENTOS - TECHFLOW SAAS v2026
+
+1. CULTURA Y FILOSOFÍA DE TRABAJO
+TechFlow es una organización "Remote-First" nacida con la misión de revolucionar el sector SaaS. Valoramos la autonomía y la responsabilidad radical. No medimos el éxito por horas sentados frente a la pantalla, sino por el cumplimiento de los OKRs trimestrales definidos por cada equipo. Esperamos que cada colaborador sea proactivo en la resolución de problemas y mantenga una comunicación asincrónica efectiva a través de Slack y Notion.
+
+2. ESQUEMA DE TRABAJO Y FLEXIBILIDAD RESPONSABLE
+Nuestra jornada laboral base es de 40 horas semanales. Bajo la política de "Flexibilidad Responsable", los empleados pueden autogestionar su horario. El bloque sugerido de colaboración core es de 10:00 AM a 15:00 PM (hora local de la sede de contratación) para asegurar la sincronía en reuniones diarias y sesiones de pair programming. Fuera de ese bloque, cada persona es libre de organizar su tiempo siempre que los objetivos se cumplan y se asista a las ceremonias obligatorias.
+
+3. INFRAESTRUCTURA Y BENEFICIOS DE HOME OFFICE
+Al ingresar, recibirás un kit tecnológico de alta gama que incluye una laptop MacBook Pro o Dell XPS según el stack tecnológico. Además, TechFlow otorga un bono de USD 500 (o su equivalente local) para la compra de equipamiento ergonómico: sillas, escritorios regulables o monitores externos. Este bono se puede solicitar nuevamente cada 24 meses para asegurar que el entorno de trabajo siga siendo óptimo y saludable para el empleado.
+
+4. POLÍTICA DE VACACIONES, LICENCIAS Y DÍAS DE BIENESTAR
+Ofrecemos 15 días hábiles de vacaciones pagas anuales, disponibles para ser utilizados desde el primer día de contrato. Además, introducimos los "Wellness Days": 3 días libres al año destinados exclusivamente al cuidado de la salud mental o descanso personal, los cuales no requieren justificación médica previa. También contamos con licencias extendidas por mudanza, matrimonio, fallecimiento de familiares directos y una política de parentalidad igualitaria que añade 4 semanas a lo establecido por ley.
+
+5. PLAN DE CARRERA Y PRESUPUESTO EDUCATIVO
+En TechFlow creemos en el crecimiento constante. Cada colaborador cuenta con un presupuesto anual de USD 1.500 para formación, que cubre cursos, libros, conferencias y certificaciones internacionales. El reembolso se gestiona de forma simple: se presenta la factura y se aprueba si está alineado con el plan de desarrollo definido en la reunión semestral de feedback. También ofrecemos acceso gratuito e ilimitado a plataformas de aprendizaje de idiomas para todos los niveles.
+
+6. COMPENSACIÓN Y ESTRUCTURA DE BENEFICIOS SALUDABLES
+El salario se deposita el último día hábil de cada mes. El paquete incluye seguro médico premium (OSDE 310 o equivalente regional) para el titular y su grupo familiar directo. Adicionalmente, reembolsamos hasta USD 40 mensuales por membresías en gimnasios o clases de actividades físicas. También contamos con una tarjeta de beneficios para almuerzos con un monto mensual precargado, válida en una amplia red de comercios y supermercados.
+
+7. POLÍTICA DE VIAJES Y EVENTOS CORPORATIVOS
+A pesar de ser remotos, valoramos el contacto humano. Una vez al año realizamos el "TechFlow Global Summit", un evento de una semana en una locación internacional con todos los gastos pagos (vuelos, hotel 4*, comidas). Asimismo, cada equipo tiene presupuesto para realizar un "Off-site" presencial por semestre para fomentar la cohesión y la planificación estratégica en persona. Todos los gastos de traslado y viáticos durante estos viajes son cubiertos por la empresa mediante rendición de tickets.
+
+8. SEGURIDAD INFORMÁTICA Y USO DE DISPOSITIVOS
+La seguridad es nuestra prioridad. Es obligatorio el uso de administradores de contraseñas y la activación de la Autenticación de Dos Factores (2FA) en todas las cuentas corporativas. El acceso a bases de datos de producción está estrictamente regulado y solo se permite a través de la VPN oficial y desde equipos autorizados. No se permite el almacenamiento de datos sensibles en dispositivos personales bajo ninguna circunstancia, para proteger la propiedad intelectual de nuestros clientes.
+
+9. CÓDIGO DE ÉTICA Y CANAL DE DENUNCIAS
+Mantenemos una política de tolerancia cero frente al acoso, la discriminación y cualquier forma de maltrato laboral. TechFlow es un entorno inclusivo que celebra la diversidad. Contamos con un Canal de Ética anónimo, gestionado por una entidad externa, donde cualquier empleado puede reportar irregularidades o comportamientos que violen nuestros valores fundamentales con la garantía de que no habrá represalias.
+
+10. PROCESO DE DESVINCULACIÓN (OFFBOARDING)
+En caso de renuncia voluntaria, solicitamos un preaviso de 15 días corridos para facilitar la transferencia de conocimiento. Durante la última semana, el equipo de IT coordinará la devolución de los activos físicos. Realizaremos una entrevista de salida para entender los motivos y mejorar como organización. Todo el código y documentación producida durante el empleo queda bajo la propiedad intelectual de TechFlow SAAS.
